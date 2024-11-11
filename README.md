@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @edichavezz
+- 👀 I’m interested in technology that helps accelerate the nature and climate transitions
+- 🌱 I’m currently learning to find and contribute to open-source projects
+- 💞️ I’m looking to collaborate on creating open-source user-friendly products for nature practitioners
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/editachavezheredia) 
+- 😄 Pronouns: she/her
+- 💼 I'm [looking](https://editachavez.simple.ink/) for a new job, based in-person in London! 
