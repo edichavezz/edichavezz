@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on creating open-source user-friendly products for nature practitioners
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/editachavezheredia) 
 - 😄 Pronouns: she/her
-- 💼 I'm [looking](https://editachavez.simple.ink/) for a new job, based in-person in London! 
+- 💼 I'm [open](https://editachavez.simple.ink/) to new projects, based in-person in London! 
