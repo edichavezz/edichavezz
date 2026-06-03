@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @edichavezz
+- 👋 Hi, I’m @edichavezz, based in London, UK
 - 👀 I’m interested in technology that helps accelerate the nature and climate transitions
 - 🌱 I’m currently learning to find and contribute to open-source projects
-- 💞️ I’m looking to collaborate on creating open-source user-friendly products for nature practitioners
+- 💞️ I’m looking to collaborate on creating user-friendly products
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/editachavezheredia) 
 - 😄 Pronouns: she/her
-- 💼 I'm [open](https://editachavez.simple.ink/) to new projects, based in-person in London! 
+- 💼 Always [open](https://editachavez.com/) to new projects!
