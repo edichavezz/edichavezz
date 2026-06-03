@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edichavezz, based in London, UK
 - 👀 I’m interested in technology that helps accelerate the nature and climate transitions
-- 🌱 I’m currently learning to find and contribute to open-source projects
+- 🌱 I’m currently learning how to use AI
 - 💞️ I’m looking to collaborate on creating user-friendly products
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/editachavezheredia) 
 - 😄 Pronouns: she/her
